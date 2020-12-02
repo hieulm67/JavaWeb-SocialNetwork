@@ -1,0 +1,14 @@
+Post Article
+Search Article
+View Article
+Logout
+Comment Article
+Delete Comment
+Delete Article
+React Emotion
+View Notification
+searchPage.jsp
+viewArticle.jsp
+postArticle.html
+postArticle.jsp
+viewNotificationPage.jsp
